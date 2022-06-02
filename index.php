@@ -10,8 +10,8 @@
 </head>
 <body>
     
-    <h1>Your Oxygen Builder is not active.</h1>
-
+    <h1>Es gibt ein Problem mit dem Oxygen-Theme.</h1>
+    <p>Bitte sag Kalle Bescheid.</>
     <?php wp_footer(); ?>
     
 </body>
